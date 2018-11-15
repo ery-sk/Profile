@@ -19,7 +19,7 @@ Work as an engineer: '18.5.1~
   * Akita Co.,Ltd.
   * URL: https://www.akitatamago.co.jp/
 
-* '18.4.1 ~
+* '18.5.1 ~
   * Rhizome Co.,Ltd.
   * URL: https://www.rhizome-e.com/
   
