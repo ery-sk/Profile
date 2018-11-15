@@ -17,8 +17,10 @@ Work as an engineer: '18.5.1~
 ## Work history
 * '17.4.1 ~ '17.10.15
   * Akita Co.,Ltd.
+  * URL: https://www.akitatamago.co.jp/
 
 * '18.4.1 ~
   * Rhizome Co.,Ltd.
+  * URL: https://www.rhizome-e.com/
   
 ## Achievements
