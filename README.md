@@ -15,7 +15,7 @@ Work as an programmer: '18.5.1~
 * Android Studio
 
 ## Work history
-* '17.4.1 ~ '17.10.15
+* '17.4.1 ~
   * AKITA CO.,LTD.
   * URL: https://www.akitatamago.co.jp/
 
