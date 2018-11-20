@@ -3,7 +3,7 @@ Name: Ryosuke Hiroe
 
 Location: Japan Okayama
 
-Work as an engineer: '18.5.1~
+Work as an programmer: '18.5.1~
 
 ## Language
 * Ruby
