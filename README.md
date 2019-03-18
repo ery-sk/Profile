@@ -7,12 +7,10 @@ Work as an programmer: '18.5.1~
 
 ## Language
 * Ruby
-* Java
 
 ## Framework
 * Ruby on Rails
 * DXRuby
-* Android Studio
 
 ## Work history
 * '17.4.1 ~
