@@ -73,7 +73,7 @@
 ## 見せられるもの
 
 - [ActionCableを試したもの](https://github.com/erysk/chat_app)
-- [webARでオブジェクトを表示させてみたもの](https://github.com/erysk/webar)
+- [webARでオブジェクトを表示させてみたもの](https://erysk.github.io/webar/)(カメラが起動します)
   - [webARで使うマーカー](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg)
 - その他技術検証で使ったリポジトリ
 
