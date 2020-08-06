@@ -51,14 +51,14 @@
 |---|---|
 |HTML|実務|
 |CSS|実務|
-|Ruby|実務+|
-|JavaScript|実務-|
+|Ruby|実務|
+|JavaScript|実務|
 |Go|趣味|
 |C#|趣味|
 
 |フレームワーク|レベル|
 |---|---|
-|Ruby on Rails|実務+|
+|Ruby on Rails|実務|
 |React|趣味|
 |Unity|趣味|
 
@@ -68,7 +68,7 @@
 |RSpec|実務|
 |Slim|実務|
 |CircleCI|実務|
-|Docker|実務-|
+|Docker|実務|
 
 ## 見せられるもの
 
