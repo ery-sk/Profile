@@ -92,7 +92,7 @@
 #### 登壇歴
 - 2019/11/30 [合同勉強会 in 大都会岡山 -2019 Winter-](https://gbdaitokai.connpass.com/event/145272/)  
   未経験入社からの1年半
-- 2020/2/29 [第22回 岡山Ruby, Ruby on Rails勉強会](https://okaruby.connpass.com/event/161062/)(予定)  
+- 2020/2/29 [第22回 岡山Ruby, Ruby on Rails勉強会](https://okaruby.connpass.com/event/161062/)  
   パズルで学ぶRuby
 #### 受賞歴
 - 2019/11/30 合同勉強会 in 大都会岡山 -2019 Winter-  
