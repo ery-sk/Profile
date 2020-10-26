@@ -23,12 +23,20 @@
 
 `Ruby` `Ruby on Rails` `RSpec` `CircleCI` `Slim` `AWS EC2` `AWS S3` `PostgreSQL`
 
+- 新規機能開発
+- バグ対応
+- コードレビュー
 - レスポンシブ対応
   - 既存画面のレスポンシブ対応
   - Bootstrap使用
 - E2EテストのSystemSpec化
   - TurnipのE2EテストからSystemSpecに移行
 - 継続的な機能改善と保守運営
+- Ruby2.4 -> Ruby2.5 へのアップデート
+- Ruby2.5 -> Ruby2.6 へのアップデート
+- Ruby2.6 -> Ruby2.7 へのアップデート
+- Rails4 -> Rails5 へのアップデート
+- Rails5 -> Rails6 へのアップデート
 
 ---
 
