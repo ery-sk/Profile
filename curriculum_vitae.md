@@ -21,7 +21,7 @@
 
 #### 2018年10月 ~ 現在: ショッピングセンター向けグループウェア開発
 
-`Ruby on Rails` `RSpec` `CircleCI` `Slim` `AWS EC2` `AWS S3`
+`Ruby` `Ruby on Rails` `RSpec` `CircleCI` `Slim` `AWS EC2` `AWS S3` `PostgreSQL`
 
 - レスポンシブ対応
   - 既存画面のレスポンシブ対応
@@ -34,13 +34,43 @@
 
 #### 2018年8月 ~ 2018年12月: 社内掃除当番通知システムの開発
 
-`Ruby on Rails` `RSpec` `Slim` `Heroku`
+`Ruby` `Ruby on Rails` `RSpec` `Slim` `Heroku` `PostgreSQL`
 
 - Botの作成、社内コミュニケーションツールと連動
   - 営業日の定時前に当日の当番者にメッセージを送信する
   - Botに話しかけるとユーザー登録から掃除完了の報告まで対話形式で登録可能
   - 一応画面からも登録、編集等は可能
 - 先の当番予定が表示されるカレンダー作成
+
+---
+
+### 2020年9月 ~ 2020年10月: 株式会社ミーニュー
+
+職種: ソフトウェアエンジニア(業務委託)
+
+#### 2020年9月 ~ 2020年10月: 献立管理アプリケーション開発
+
+`TypeScript` `React Native` `React` `GraphQL` `Node.js`
+
+- 画面デザイン修正
+- Webviewを使用している箇所の完全Native化
+  - Laravel製のWebviewから GraphQL + React Native の完全ネイティブ画面への移行
+- iOS/Android と Web のクロスプラットフォーム対応
+  - React Native と React のコア機能の処理をモジュール化し、Web、Native双方へ使いまわせる形へ修正
+
+---
+
+### 2020年10月 ~ 現在: 株式会社サイトビジット
+
+職種: ソフトウェアエンジニア(業務委託)
+
+#### 2020年10月 ~ 現在: Webアプリケーション開発
+
+`Ruby` `Ruby on Rails` `RSpec` `Heroku` `PostgreSQL`
+
+- 既存アプリケーションのリファクタリング業務
+  - テスト追加
+  - リファクタリング
 
 ---
 
@@ -53,6 +83,7 @@
 |CSS|実務|
 |Ruby|実務|
 |JavaScript|実務|
+|TypeScript|趣味|
 |Go|趣味|
 |C#|趣味|
 
@@ -60,6 +91,7 @@
 |---|---|
 |Ruby on Rails|実務|
 |React|趣味|
+|React Native|趣味|
 |Unity|趣味|
 
 |その他|レベル|
@@ -69,6 +101,8 @@
 |Slim|実務|
 |CircleCI|実務|
 |Docker|実務|
+|PostgreSQL|趣味|
+|GraphQL|趣味|
 
 ## 見せられるもの
 
