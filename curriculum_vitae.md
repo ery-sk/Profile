@@ -150,8 +150,8 @@
 
 ## 見せられないけどやったこと
 
-- MeCab使って、本番データの個人情報をマスク処理する
-  - MeCab使ってなんやかんやする記事は書いたことがあります
+- MeCabを使って個人情報を抽出してマスク処理する
+  - MeCab使ってなんやかんやする記事は書いてます
   - https://gitpress.io/@rhiroe/ruby_morphological_analysis
 - レガシーなRailsアプリのレスポンシブ対応
   - Bootstrapを駆使してスマホでもみれる画面にした
