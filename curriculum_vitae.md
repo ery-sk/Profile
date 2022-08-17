@@ -11,6 +11,70 @@
 |Blog|[Gitpress](https://gitpress.io/@erysk/)|
 |Community|[Okayama.rb](https://okaruby.connpass.com/)|
 
+## スキルセット
+
+|言語|レベル|
+|---|---|
+|HTML|実務|
+|CSS|実務|
+|Ruby|実務|
+|JavaScript|実務|
+|TypeScript|趣味|
+|Go|趣味|
+|C#|趣味|
+
+|フレームワーク|レベル|
+|---|---|
+|Ruby on Rails|実務|
+|React|趣味|
+|React Native|趣味|
+|Unity|趣味|
+
+|その他|レベル|
+|---|---|
+|Git|実務|
+|RSpec|実務|
+|Slim|実務|
+|CircleCI|実務|
+|Docker|実務|
+|PostgreSQL|趣味|
+|GraphQL|趣味|
+
+## 見せられるもの
+
+- https://github.com/rhiroe/chat_app
+  - ActionCableを試したもの
+  - Rails７対応版もあります
+    - https://github.com/rhiroe/actioncable_rails7
+- https://github.com/rhiroe/erysk.github.io
+  - ~~[webARでオブジェクトを表示させてみたもの](https://erysk.github.io/webar/)(カメラが起動します)~~
+    - アカウント名変えたのでerysk.github.ioが動いてないです
+  - [webARで使うマーカー](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg)
+- https://github.com/rhiroe/swagger_sample
+  - 社内向けにSwaggerの概要説明資料を作りました
+- https://github.com/rhiroe/pullreq_police
+  - 社内で利用するGitHubActionを作成しました
+  - 社内で使うので会社に寄贈しました
+    - https://github.com/hayashima/pullreq_police
+- https://github.com/rhiroe/rhiroe.github.io
+  - ポートフォリオページみたいなのを作り始めました
+  - 今後こちらに諸々寄せていく予定
+- https://github.com/rhiroe/hanami-RLS
+  - HanamiからPostgreSQLのRowLevelSecurityを利用する
+- https://github.com/rhiroe/sekisyo
+  - リクエストボディを検証して、アプリケーション側に到達する前にバリデーションするようなRackMiddlewareを作ってみました
+  - 社内で使うかもな〜って段階でまだ使ってないので、一応動くけど細部の完成度が低い未完成品
+
+## 見せられないけどやったこと
+
+- MeCabを使って個人情報を抽出してマスク処理する
+  - MeCab使ってなんやかんやする記事は書いてます
+  - https://gitpress.io/@rhiroe/ruby_morphological_analysis
+- レガシーなRailsアプリのレスポンシブ対応
+  - Bootstrapを駆使してスマホでもみれる画面にした
+- Rails開発環境とテスト環境のコンテナ化
+  - よくある方法、「やったことあるので一応わかるよ」程度
+
 ## 職務経歴
 
 ### 2018年5月 ~ 現在: 株式会社リゾーム
@@ -93,70 +157,15 @@
 
 ---
 
+### 2021年5月 ~ 2021年10月: 株式会社BeerAndTech
 
-## スキルセット
+職種: ソフトウェアエンジニア
 
-|言語|レベル|
-|---|---|
-|HTML|実務|
-|CSS|実務|
-|Ruby|実務|
-|JavaScript|実務|
-|TypeScript|趣味|
-|Go|趣味|
-|C#|趣味|
+#### 2021年5月 ~ 2021年10月: HitoHana開発
 
-|フレームワーク|レベル|
-|---|---|
-|Ruby on Rails|実務|
-|React|趣味|
-|React Native|趣味|
-|Unity|趣味|
+`Rails` `React`
 
-|その他|レベル|
-|---|---|
-|Git|実務|
-|RSpec|実務|
-|Slim|実務|
-|CircleCI|実務|
-|Docker|実務|
-|PostgreSQL|趣味|
-|GraphQL|趣味|
-
-## 見せられるもの
-
-- https://github.com/rhiroe/chat_app
-  - ActionCableを試したもの
-  - Rails７対応版もあります
-    - https://github.com/rhiroe/actioncable_rails7
-- https://github.com/rhiroe/erysk.github.io
-  - ~~[webARでオブジェクトを表示させてみたもの](https://erysk.github.io/webar/)(カメラが起動します)~~
-    - アカウント名変えたのでerysk.github.ioが動いてないです
-  - [webARで使うマーカー](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg)
-- https://github.com/rhiroe/swagger_sample
-  - 社内向けにSwaggerの概要説明資料を作りました
-- https://github.com/rhiroe/pullreq_police
-  - 社内で利用するGitHubActionを作成しました
-  - 社内で使うので会社に寄贈しました
-    - https://github.com/hayashima/pullreq_police
-- https://github.com/rhiroe/rhiroe.github.io
-  - ポートフォリオページみたいなのを作り始めました
-  - 今後こちらに諸々寄せていく予定
-- https://github.com/rhiroe/hanami-RLS
-  - HanamiからPostgreSQLのRowLevelSecurityを利用する
-- https://github.com/rhiroe/sekisyo
-  - リクエストボディを検証して、アプリケーション側に到達する前にバリデーションするようなRackMiddlewareを作ってみました
-  - 社内で使うかもな〜って段階でまだ使ってないので、一応動くけど細部の完成度が低い未完成品
-
-## 見せられないけどやったこと
-
-- MeCabを使って個人情報を抽出してマスク処理する
-  - MeCab使ってなんやかんやする記事は書いてます
-  - https://gitpress.io/@rhiroe/ruby_morphological_analysis
-- レガシーなRailsアプリのレスポンシブ対応
-  - Bootstrapを駆使してスマホでもみれる画面にした
-- Rails開発環境とテスト環境のコンテナ化
-  - よくある方法、「やったことあるので一応わかるよ」程度
+- Railsアプリケーションの改修
 
 ### 課外活動
 #### 参加コミュニティー
