@@ -125,18 +125,38 @@
 
 ## 見せられるもの
 
-- [ActionCableを試したもの](https://github.com/erysk/chat_app)
-- [webARでオブジェクトを表示させてみたもの](https://erysk.github.io/webar/)(カメラが起動します)
+- https://github.com/rhiroe/chat_app
+  - ActionCableを試したもの
+  - Rails７対応版もあります
+    - https://github.com/rhiroe/actioncable_rails7
+- https://github.com/rhiroe/erysk.github.io
+  - ~~[webARでオブジェクトを表示させてみたもの](https://erysk.github.io/webar/)(カメラが起動します)~~
+    - アカウント名変えたのでerysk.github.ioが動いてないです。
   - [webARで使うマーカー](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg)
-- その他技術検証で使ったリポジトリ
+- https://github.com/rhiroe/swagger_sample
+  - 社内向けにSwaggerの概要説明資料を作りました
+- https://github.com/rhiroe/pullreq_police
+  - 社内で利用するGitHubActionを作成しました
+  - 社内で使うので会社に寄贈しました。
+    - https://github.com/hayashima/pullreq_police
+- https://github.com/rhiroe/rhiroe.github.io
+  - ポートフォリオページみたいなのを作り始めました
+  - 今後こちらに諸々寄せていく予定
+- https://github.com/rhiroe/hanami-RLS
+  - HanamiからPostgreSQLのRowLevelSecurityを利用する
+- https://github.com/rhiroe/sekisyo
+  - リクエストボディを検証して、アプリケーション側に到達する前にバリデーションするようなRackMiddlewareを作ってみました
+  - 社内で使うかもな〜って段階でまだ使ってないので、一応動くけど細部の完成度が低い未完成品
 
-## 自己PR
+## 見せられないけどやったこと
 
-### 強み
-
-- Rubyのコードリーディング
-
-パズルを解いたりコードゴルフをしたりするので Ruby の変なところに詳しいです。ショートコーディングのための文法や、SyntaxSugar、メタプロについても多少理解しており、gemのソースコード程度であれば苦なく読めます。 
+- MeCab使って、本番データの個人情報をマスク処理する
+  - MeCab使ってなんやかんやする記事は書いたことがあります
+  - https://gitpress.io/@rhiroe/ruby_morphological_analysis
+- レガシーなRailsアプリのレスポンシブ対応
+  - Bootstrapを駆使してスマホでもみれる画面にした
+- Rails開発環境とテスト環境のコンテナ化
+  - よくある方法、「やったことあるので一応わかるよ」程度
 
 ### 課外活動
 #### 参加コミュニティー
