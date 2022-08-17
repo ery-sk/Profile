@@ -131,13 +131,13 @@
     - https://github.com/rhiroe/actioncable_rails7
 - https://github.com/rhiroe/erysk.github.io
   - ~~[webARでオブジェクトを表示させてみたもの](https://erysk.github.io/webar/)(カメラが起動します)~~
-    - アカウント名変えたのでerysk.github.ioが動いてないです。
+    - アカウント名変えたのでerysk.github.ioが動いてないです
   - [webARで使うマーカー](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg)
 - https://github.com/rhiroe/swagger_sample
   - 社内向けにSwaggerの概要説明資料を作りました
 - https://github.com/rhiroe/pullreq_police
   - 社内で利用するGitHubActionを作成しました
-  - 社内で使うので会社に寄贈しました。
+  - 社内で使うので会社に寄贈しました
     - https://github.com/hayashima/pullreq_police
 - https://github.com/rhiroe/rhiroe.github.io
   - ポートフォリオページみたいなのを作り始めました
