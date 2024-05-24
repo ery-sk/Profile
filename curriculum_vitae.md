@@ -6,9 +6,10 @@
 |Name|廣江 亮佑|
 |Birthday|1995/01/23|
 |Email|ride.poke@gmail.com|
+|GitHub|[@rhiroe](https://github.com/rhiroe)|
 |Twitter|[@buta_botti](https://twitter.com/buta_botti)|
-|Qiita|[@eRy-sk](https://qiita.com/eRy-sk)|
-|Blog|[Gitpress](https://gitpress.io/@erysk/)|
+|Qiita|[@rhiroe](https://qiita.com/rhiroe)|
+|Blog|[Gitpress](https://gitpress.io/@rhiroe/)|
 |Community|[Okayama.rb](https://okaruby.connpass.com/)|
 
 ## スキルセット
@@ -26,6 +27,7 @@
 |フレームワーク|レベル|
 |---|---|
 |Ruby on Rails|実務|
+|Hanami|趣味|
 |React|趣味|
 |React Native|趣味|
 |Unity|趣味|
@@ -36,50 +38,36 @@
 |RSpec|実務|
 |Slim|実務|
 |CircleCI|実務|
+|GitHubActions|実務|
 |Docker|実務|
-|PostgreSQL|趣味|
+|PostgreSQL|実務|
+|MySQL|実務|
 |GraphQL|趣味|
-
-## 見せられるもの
-
-- https://github.com/rhiroe/chat_app
-  - ActionCableを試したもの
-  - Rails７対応版もあります
-    - https://github.com/rhiroe/actioncable_rails7
-- https://github.com/rhiroe/swagger_sample
-  - 社内向けにSwaggerの概要説明資料を作りました
-- https://github.com/rhiroe/pullreq_police
-  - 社内で利用するGitHubActionを作成しました
-  - 社内で使うので会社に寄贈しました
-    - https://github.com/hayashima/pullreq_police
-- https://github.com/rhiroe/rhiroe.github.io
-  - ポートフォリオページみたいなのを作り始めました
-  - 今後こちらに諸々寄せていく予定
-- https://github.com/rhiroe/hanami-RLS
-  - HanamiからPostgreSQLのRowLevelSecurityを利用する
-- https://github.com/rhiroe/sekisyo
-  - リクエストボディを検証して、アプリケーション側に到達する前にバリデーションするようなRackMiddlewareを作ってみました
-  - 社内で使うかもな〜って段階でまだ使ってないので、一応動くけど細部の完成度が低い未完成品
-
-## 見せられないけどやったこと
-
-- MeCabを使って個人情報を抽出してマスク処理する
-  - MeCab使ってなんやかんやする記事は書いてます
-  - https://gitpress.io/@rhiroe/ruby_morphological_analysis
-- レガシーなRailsアプリのレスポンシブ対応
-  - Bootstrapを駆使してスマホでもみれる画面にした
-- Rails開発環境とテスト環境のコンテナ化
-  - よくある方法、「やったことあるので一応わかるよ」程度
 
 ## 職務経歴
 
-### 2018年5月 ~ 現在: 株式会社リゾーム
+### 2023年6月 ~ 現在: 株式会社タイミー
 
-職種: Webアプリケーションエンジニア
+職種: バックエンドエンジニア
+
+#### 2023年6月 ~ 現在: RailsAPI開発
+
+`Ruby` `Ruby on Rails` `RSpec` `CircleCI` `GitHub Actions` `MySQL` `Redis` `Sidekiq`
+
+- HubSpotからSalesforceへの移管作業
+- 求人の募集人数上限による利用制限の実装
+- サービス利用額計算処理の再実装
+- RBSとSteepの導入
+　　- RBSは手書き、Steepはデフォルト設定で運用
+- 給与支払いに利用する仕向銀行の追加
 
 ---
 
-#### 2018年10月 ~ 現在: ショッピングセンター向けグループウェア開発
+### 2018年5月 ~ 2023年5月: 株式会社リゾーム
+
+職種: Webアプリケーションエンジニア
+
+#### 2018年10月 ~ 2023年5月: ショッピングセンター向けグループウェア開発
 
 `Ruby` `Ruby on Rails` `RSpec` `CircleCI` `Slim` `AWS EC2` `AWS S3` `PostgreSQL`
 
