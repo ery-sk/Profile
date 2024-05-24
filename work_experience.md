@@ -6,12 +6,17 @@
 |Name|廣江 亮佑|
 |Birthday|1995/01/23|
 |Email|ride.poke@gmail.com|
+|Lapras|[Ryosuke Hiroe](https://lapras.com/public/8JZAO37)|
+
+<!--
 |GitHub|[@rhiroe](https://github.com/rhiroe)|
 |Twitter|[@buta_botti](https://twitter.com/buta_botti)|
 |Qiita|[@rhiroe](https://qiita.com/rhiroe)|
 |Blog|[Gitpress](https://gitpress.io/@rhiroe/)|
 |Community|[Okayama.rb](https://okaruby.connpass.com/)|
+-->
 
+<!-- 
 ## スキルセット
 
 |言語|レベル|
@@ -43,6 +48,7 @@
 |PostgreSQL|実務|
 |MySQL|実務|
 |GraphQL|趣味|
+-->
 
 ## 職務経歴
 
@@ -151,6 +157,7 @@
 
 - Railsアプリケーションの改修
 
+<!--
 ### 課外活動
 #### 参加コミュニティー
 - [Okayama.rb](https://okaruby.connpass.com/)
@@ -159,6 +166,9 @@
   未経験入社からの1年半
 - 2020/2/29 [第22回 岡山Ruby, Ruby on Rails勉強会](https://okaruby.connpass.com/event/161062/)  
   パズルで学ぶRuby
+- 2023/12/27 [すごい広島 IT初心者の会 \[81\] 忘年会](https://pycon-hiroshima.connpass.com/event/304186/)  
+  スクラム開発におけるベロシティの扱い
 #### 受賞歴
 - 2019/11/30 合同勉強会 in 大都会岡山 -2019 Winter-  
   ベストスピーカー賞
+-->
